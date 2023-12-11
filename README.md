@@ -3,4 +3,4 @@ I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/h
 
 I am interested in 3D reconstruction, generation and understanding.
 
-[website](https://zhouzhenghong-gt.github.io/)
+This is my [personal website](https://zhouzhenghong-gt.github.io/)
